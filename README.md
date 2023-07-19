@@ -1,3 +1,8 @@
+React Native app that uses Bluetooth Low Energy to scan for and list nearby Bluetooth devices.
+
+[Demo video](https://www.youtube.com/watch?v=6p-mTXVxQ9w)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
